@@ -9,3 +9,4 @@ Make sure you have installed NodeJS and NPM first and that you can run them from
 ## Commands
 * `npm run build` - Build the project
 * `npm run watch` - Start the Webpack dev server
+* http://localhost:8080/ 
